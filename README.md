@@ -5,11 +5,12 @@
 
 I checked my zone and it was unset and then I changed my zone to `us-east1-b.`   I then double checked that the zone was changed and it was set correctly. 
 
-2. ![](http://localhost:9425/images/019c39a5-c72a-710c-ab55-ec06594fdd1a.png)
+2.<img width="675" height="231" alt="image" src="https://github.com/user-attachments/assets/2565ccb0-e588-43e2-9857-eec2a7c2f37e" />
 
 created google kubernetes engine-cluster w/3 worker nodes with no failures.
 
-3. ![](http://localhost:9425/images/019c39a7-a1fc-7163-a64b-ebe46ef07029.png)
+3.<img width="675" height="231" alt="image" src="https://github.com/user-attachments/assets/219898fb-bbec-4ee1-8e57-12d1c8398b3e" />
+
 
 I have a running cluster named gke-cluster and it’s in region  `us-east1-b.`  and it has 3 nodes.
 
